@@ -4,5 +4,4 @@ Ex post: https://localhost:49155/Authentication
 - userPass: 1
 
 Ex get: https://localhost:49155/weatherforecast
-Authentication:
-+ Bearer Token
+- Bearer Token
