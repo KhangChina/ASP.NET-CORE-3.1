@@ -5,3 +5,5 @@ Ex post: https://localhost:49155/Authentication
 
 Ex get: https://localhost:49155/weatherforecast
 - Bearer Token
+Ex build
+- docker build .
